@@ -1,0 +1,18 @@
+1.
+  inteiro: recebe variáveis númericas do tipo inteiro, sem casas decimais.
+  reais: recebe variáveis númericas do tipo reais, com casas decimais.
+  caractere: recebe variáveis simbólicas: 'a', '!', '_', ' ' etc.
+  *STRING: cadeia de caracteres.
+  lógicas: recebe variáveis do tipo booleano, ou seja TRUE ou FALSE.
+2.
+  inteiro CPF, RG;
+  real Altura;
+  string Nome, Endereço;
+3.
+  string <- Nome;
+  inteiro <- CPF;
+  inteiro <- RG;
+  real <- Altura;
+  string <- Endereço;
+  
+  
