@@ -9,10 +9,10 @@
   real Altura;
   string Nome, Endereço;
 3.
-  string <- Nome;
-  inteiro <- CPF;
-  inteiro <- RG;
-  real <- Altura;
-  string <- Endereço;
+  string <_ Nome;
+  inteiro <_ CPF;
+  inteiro <_ RG;
+  real <_ Altura;
+  string <_ Endereço;
   
   
